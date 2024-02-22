@@ -1,6 +1,6 @@
 basicsr==1.4.2
 filetype==1.2.0
-gradio==4.11.0
+gradio==4.19.2
 numpy==1.26.2
 onnx==1.15.0
 onnxruntime==1.16.3
